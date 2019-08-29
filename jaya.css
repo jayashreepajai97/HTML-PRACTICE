@@ -1,0 +1,135 @@
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        background-image:url(d1.png), url(d2.png), url(d-1.png);
+        background-size: 45%, 57%, 50%;
+        background-position:left -30% top -730%, 
+                            left 30% bottom 260%,
+                            right -37% bottom 550%;
+        background-repeat:no-repeat, no-repeat, no-repeat;
+        
+    }
+    .l {
+        vertical-align: top;
+        display: inline-block;   
+        width: 80px;
+        height: 70px;
+        margin-left: 3%;
+        
+    }
+    .con
+    {
+        position: absolute;
+        margin: -12px;
+        width: 100%;
+        margin-top: -8px;
+    }
+    .uperpnav {
+        overflow: hidden;
+        background: linear-gradient(145deg,#801a94 0%, #e61eb6 100%);
+      }
+      .uperpnav a {
+        float: right;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 30px 35px;
+        text-decoration: none;
+        font-size: 17px;
+      }
+      .uperpnav a:hover {
+        background-color: #ddd;
+        color: black;
+      }
+      .img{
+          width: 55%;
+          height: 60%;
+          margin-top: 2%;
+          margin-left: 4%;
+      }
+      
+      .bttn{
+    margin-left: 950px;
+    POSITION: absolute;
+    MARGIN-TOP: 100PX;
+    WIDTH: 39%;
+      }
+      .btn{          
+        height: 85px;
+        background: linear-gradient(145deg, #20007e 0%, #e61eb6 100%);  border: none;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        margin-bottom: 80px;
+        font-size: 15px;
+        margin: 4px 2px;
+        cursor: pointer;
+        width: 30%;
+        margin-top: 10px;
+        padding: 15px 32px; 
+        
+      }
+      a{
+        color:white;   
+    }
+    .buttonb1{
+        transition: 0.5s;
+    }
+ .buttonb1:hover{
+     height: 100px;
+     width: 35%;
+ }
+ .buttonb2{
+     margin-top: 20px;      
+ }
+ .buttonb2{
+    transition: 0.5s;
+}
+.buttonb2:hover{
+ height: 100px;
+ width: 35%;
+}
+ .buttonb3{
+     margin-left: 2px;   
+ }
+.buttonb3{
+    transition: 0.5s;
+}
+.buttonb3:hover{
+ height: 100px;
+ width: 35%;
+}
+.buttonb4{
+    transition: 0.5s;
+}
+.buttonb4:hover{
+ height: 100px;
+ width: 35%;
+}
+.buttonb5{
+    transition: 0.5s;
+}
+.buttonb5:hover{
+ height: 100px;
+ width: 35%;
+}
+.buttonb6{
+    transition: 0.5s;
+}
+.buttonb6:hover{
+ height: 100px;
+ width: 35%;
+}
+.buttonb7{
+    transition: 0.5s;
+}
+.buttonb7:hover{
+ height: 100px;
+ width: 35%;
+}
+.buttonb8{
+    transition: 0.5s;
+}
+.buttonb8:hover{
+ height: 100px;
+ width: 35%;
+}
